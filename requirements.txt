@@ -1,0 +1,5 @@
+streamlit
+dotenv
+langchain
+langchain_community
+langchain_nvidia_ai_endpoints
